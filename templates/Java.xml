@@ -1,7 +1,6 @@
 <templateSet group="Java">
-  <template name="x" value="/**&#10;  * @Description: TODO&#10;　* @param $params$&#10;　* @return $return_type$&#10;　* @author mgllife@xjc&#10;　* @date $date$ $time$&#10;　*/" description="方法注释代码" toReformat="false" toShortenFQNames="true">
+  <template name="x" value="/**&#10; * &#10; * @param $params$&#10; * @return &#10; * @author mgllife@xjc&#10; * @date $date$ $time$&#10; */" description="方法注释代码" toReformat="false" toShortenFQNames="true">
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="return_type" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
