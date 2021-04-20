@@ -1,7 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="f9826c" />
-    <option name="selectedTheme" value="GITHUB_DARK" />
+    <option name="compactTables" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="accentColor" value="5b91ff" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="63a0b484:1788cd9b356:-7fe3" />
     <option name="version" value="5.5.0" />
   </component>
