@@ -5,14 +5,10 @@
     <option name="updateGeneration" value="1" />
     <option name="isMethodCompletionsPercentageActive" value="true" />
     <option name="isMethodCompletionsPercentageSet" value="true" />
-    <option name="featureFlags">
-      <map>
-        <entry key="deep-completions" value="true" />
-      </map>
-    </option>
-    <option name="everTurnedOnFeatureFlags">
+    <option name="usedLanguages">
       <set>
-        <option value="deep-completions" />
+        <option value="java" />
+        <option value="javascript" />
       </set>
     </option>
   </component>

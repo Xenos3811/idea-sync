@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:/study/java" />
+        <option value="D:/myWork" />
+        <option value="D:/me" />
+      </list>
+    </option>
+  </component>
+</application>
